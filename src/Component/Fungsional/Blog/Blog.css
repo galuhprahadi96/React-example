@@ -1,0 +1,13 @@
+.blog-wrapper {
+  width: 400px;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid blue;
+  height: auto;
+}
+
+.blog-wrapper img {
+  width: 400px;
+  height: 300px;
+}
