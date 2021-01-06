@@ -28,7 +28,6 @@ class Product extends Component {
     
 
     render() {
-        console.log(this.state.disable)
         return (
             <div className="product-container">
                 <h2>{this.props.name}</h2>
